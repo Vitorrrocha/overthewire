@@ -21,4 +21,4 @@
 
 ### To acess the OverTheWire [CLICK HERE!](https://overthewire.org/wargames) 
 
-##### Developed with by [vitorrrocha](https://github.com/Vitorrrocha)
+##### Developed with :green_heart: by [vitorrrocha](https://github.com/Vitorrrocha)
