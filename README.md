@@ -1,5 +1,5 @@
 <p align="center">
-  OverTheWire
+  <h1><b>OverTheWire</b></h1>
 </p>
 
 ### OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
