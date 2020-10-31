@@ -11,7 +11,7 @@
 ```shell
 ls
 ```
-ls command going to list all content in this directory, now you will see a file called - .
+ls command going to list content in this directory, now you will see a file called - .
 
 to show the content in the - file you can run the cat command.
 
