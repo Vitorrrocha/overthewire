@@ -13,7 +13,7 @@ ls
 ```
 ls command going to list content in this directory, now you will see a file called spaces in this filename.
 
-to show the content in the spaces in this filename file you can run the cat command with the quotation marks("").
+to show the content in the spaces in this filename file you can run the cat command with the quotation marks(" ").
 
 ```shell
 cat ./"spaces in this filename"
