@@ -1,6 +1,8 @@
 <p align="center">
   <h1 align="center"><b>OverTheWire</b></h1>
-  
+</p>
+
+<p align="center">
   <a href="LICENSE" style="text-decoration: none">
     <img alt="License" src="https://img.shields.io/github/license/Vitorrrocha/overthewire?color=34CB79" />
   </a>
@@ -16,7 +18,6 @@
   <a href="https://github.com/Vitorrrocha/overthewire/stargazers" style="text-decoration: none">
     <img alt="Stars" src="https://img.shields.io/github/stars/Vitorrrocha/overthewire?style=social" />
   </a>
-
 </p>
 
 ### Overthewire community can help you to learn and practice security concepts in the form of fun-filled games.
